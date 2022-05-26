@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat Program</string>
+    <string name="send_message_b">Отправить</string>
+    <string name="edit_text_hint">Введите сообщение</string>
+
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="reg">Регестрация</string>
+    <string name="sign">Вход</string>
+
+</resources>
